@@ -1,1 +1,15 @@
 Файл human в ветках master и demo ничем не отличаются
+
+11 коммитов в удаленном репозитории:
+
+результат сравнения
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
